@@ -6,3 +6,4 @@
 - Mohd Yasir
 - Ayush Kumar
 - Samyak Jain
+- Shubh Gaur
