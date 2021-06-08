@@ -7,3 +7,4 @@
 - Ayush Kumar
 - Samyak Jain
 - Shubh Gaur
+- Aryan Gupta
